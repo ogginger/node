@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run -e LS_COLORS=$LS_COLORS --name node -v /home/josh/node/code:/home/ -it node

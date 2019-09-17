@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/home/josh/node/rm_node
+/home/josh/node/run_node
